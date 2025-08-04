@@ -23,11 +23,8 @@ Explore insight within the Credit Card Transaction dataset. This comprehensive g
 📌 Background created in Canva
 
 📈 Dataset Credit:
-
 📊 Dataset: https://www.kaggle.com/datasets/priyamchoksi/credit-card-transactions-dataset/data
-
 📄 License: Apache License 2.0 
-
 🛠️ Modified: Cleaned and formatted for analysis
 
 🔎 CHECK THIS OUT! : 
